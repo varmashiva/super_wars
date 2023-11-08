@@ -1,0 +1,47 @@
+*{
+    font-family: 'Lora', serif;
+    font-family: 'Poppins', sans-serif;
+}
+.heros-1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.heros-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.points{
+    font-size: xx-large;
+}
+.superwars{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 40px 40px;
+}
+.hulk_own{
+    border:solid black;
+    border-radius: 10px;
+    border-width: 0.5px;
+    margin-right: 20px;
+}
+.dr{
+    border:solid black; 
+    border-radius: 10px;
+    border-width: 0.5px; 
+}
+.captain{
+    margin-right: 30px;
+    border:solid black;
+    border-radius: 10px;
+    border-width: 0.5px; 
+}
+.spyder{
+    margin-right: 1px;
+    border:solid black;
+    border-radius: 10px;
+    border-width: 0.5px; 
+}
